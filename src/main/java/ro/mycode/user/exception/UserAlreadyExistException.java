@@ -1,4 +1,4 @@
-package ro.mycode.user.ecxeption;
+package ro.mycode.user.exception;
 
 
 import static ro.mycode.user.constants.ExceptionsConstants.USER_ALREADY_EXIST_EXCEPTION;
